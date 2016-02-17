@@ -37,7 +37,8 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:id="@+id/editText"
-                android:layout_weight="1" />
+                android:layout_weight="1"
+                android:focusableInTouchMode="true" />
 
             <Button
                 style="?android:attr/buttonStyleSmall"
